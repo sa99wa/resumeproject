@@ -1,0 +1,33 @@
+{
+  "basics":{
+    "photo":"image1.jpg",
+    "name":"ssaiiswarya",
+    "email":"ssaiiswarya@gmail.com",
+    "mobile":"9959370182"
+  },
+  "education":[
+    {
+      "course":"B.tech(computer science and engineering)",
+      "college":["g pullaiah college of engineering and technology",
+        "2015-2019",
+        "70"
+      ]
+    },
+    {
+    "course":"intermediate(mpc)",
+          "college":["narayana junior college",
+            "2013-2015",
+            "91"
+          ]
+
+    },
+    {
+          "course":"ssc",
+          "college":["srividya school",
+            "2012-2013",
+            "90"
+          ]
+
+    }
+  ]
+}
