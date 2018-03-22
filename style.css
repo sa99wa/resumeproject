@@ -9,7 +9,7 @@
   border:2px solid #c45e45;
   margin:5px 3px 1px 10px;
   padding: 5px;
-  background-color:purple;
+  background-color:#ffd480;
 
 }
 .right{
@@ -17,22 +17,22 @@
   border:2px solid blue;
   margin:3px;
   padding: 5px;
-  background-color:grey;
+  background-color:#ffd480;
 }
 #name{
   color:#fff
 }
 h1{
-  color:#fff;
-}
-h1:hover{
   color:#000;
 }
+h1:hover{
+  color:#violet;
+}
 h2{
-  color:#fff;
+  color:#000;
 }
 .left img{
-  width: 100px;
+  width: 200px;
   height:auto;
   border-radius:100%;
   box-shadow:3px 6px 2px solid:#000;
